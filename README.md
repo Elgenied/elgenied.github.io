@@ -8,7 +8,7 @@ my name is Elgenied Elqurashi , I'm a PhD student at [University of Surrey](http
 
 ## Educational background
 ```python
-print("I'm still learning, cool things to be added")
+"I'm still learning, cool things to be added"
 ```
 
 
